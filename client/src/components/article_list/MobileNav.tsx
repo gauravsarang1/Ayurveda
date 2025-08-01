@@ -1,5 +1,5 @@
 // Mobile Navigation Component
-import NavItem from "./Navitem";
+import NavItem from "./NavItem";
 import { Home, FileText, Info } from "lucide-react";
 const MobileNavigation: React.FC = () => {
   const navItems = [
